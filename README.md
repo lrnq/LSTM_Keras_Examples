@@ -1,2 +1,2 @@
 # LSTM
-A repository for various implementations of LSTM networks.
+A repository for various implementations of LSTM networks. The model_notebook directory contains the implementations. In a notebook format style. There have not been done anything in terms of hyperparameter optimization etc. The notebooks are meant to demonstrate how different LSTM architectures can be implemented with Keras. In the optimization_notebook dir there are a notebook with common ways of optimizing the models, and things to consider when preparing data, evaluating model etc.
